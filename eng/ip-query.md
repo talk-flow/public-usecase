@@ -77,4 +77,3 @@ This example uses enhanced plan-act to implement IP query, demonstrating how to 
 - SSE (Server-Sent Events) connection method
 - External service configuration and management
 - Tool invocation in Plan-Act mode
-
