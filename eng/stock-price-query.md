@@ -1,7 +1,7 @@
 # Stock Price Query
 
 ## Introduction
-Stock price query is a fundamental capability demonstration that showcases the system's default functionality and capabilities: the ability to use the system's built-in browser tools to retrieve stock query information and write it to a fixed markdown file.
+Stock price query is a fundamental capability demonstration that showcases the system's default functionality and capabilities: the ability to use the system's built-in browser tools to retrieve stock query information.
 
 ## Simple Mode
 
@@ -16,7 +16,7 @@ Use the simplest chat interface to implement stock query
 ## Plan-Act Enhanced Mode
 
 ### Description
-Use enhanced plan-act to implement stock query and write to file, with variable parameter support to query different types of stock information, demonstrating the system's variable parameter method (this is also the system's main recommended mode)
+Use enhanced plan-act to implement stock query, with variable parameter support to query different types of stock information, demonstrating the system's variable parameter method (this is also the system's main recommended mode)
 
 ### Specific Steps
 
