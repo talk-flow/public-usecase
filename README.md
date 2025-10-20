@@ -49,7 +49,19 @@
   - 智能调研策略：自动选择最佳调研路径和资源
 - **适用场景**: 深度调研、学术研究、信息收集、智能分析
 
-#### 5. AI小说
+#### 5. 图片和PDF识别
+- **文件位置**: [chn/image-pdf-recognition.md](chn/image-pdf-recognition.md) | [eng/image-pdf-recognition.md](eng/image-pdf-recognition.md)
+- **功能描述**: 展示图片和PDF识别功能，支持批量识别和结构化输出，同时支持HTTP接口调用
+- **核心特性**:
+  - 文档解析和OCR技术
+  - 结构化数据提取
+  - HTTP服务发布和调用
+  - 文件上传和批量处理
+  - 异步任务执行
+  - JSON格式标准化输出
+- **适用场景**: 文档处理、内容提取、批量识别、API服务
+
+#### 6. AI小说
 - **文件位置**: [chn/ai-novel.md](chn/ai-novel.md) | [eng/ai-novel.md](eng/ai-novel.md)
 - **功能描述**: AI小说生成计划（待完善）
 - **适用场景**: 内容创作、创意写作

@@ -49,7 +49,19 @@ This project contains a collection of practical use cases that demonstrate the c
   - Intelligent research strategy: Automatic selection of optimal research paths and resources
 - **Use Cases**: Deep research, academic research, information gathering, intelligent analysis
 
-#### 5. AI Novel
+#### 5. Image and PDF Recognition
+- **File Location**: [chn/image-pdf-recognition.md](chn/image-pdf-recognition.md) | [eng/image-pdf-recognition.md](eng/image-pdf-recognition.md)
+- **Description**: Demonstrates image and PDF recognition functionality, supporting batch recognition and structured output, as well as HTTP API calls
+- **Key Features**:
+  - Document parsing and OCR technology
+  - Structured data extraction
+  - HTTP service publishing and calling
+  - File upload and batch processing
+  - Asynchronous task execution
+  - JSON format standardized output
+- **Use Cases**: Document processing, content extraction, batch recognition, API services
+
+#### 6. AI Novel
 - **File Location**: [chn/ai-novel.md](chn/ai-novel.md) | [eng/ai-novel.md](eng/ai-novel.md)
 - **Description**: AI novel generation plan (to be completed)
 - **Use Cases**: Content creation, creative writing
