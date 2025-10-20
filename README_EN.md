@@ -9,7 +9,7 @@ This project contains a collection of practical use cases that demonstrate the c
 ### 📊 Basic Query Cases
 
 #### 1. Stock Price Query
-- **File Location**: `chn/stock-price-query.md` | `eng/stock-price-query.md`
+- **File Location**: [chn/stock-price-query.md](chn/stock-price-query.md) | [eng/stock-price-query.md](eng/stock-price-query.md)
 - **Description**: Demonstrates the system's default browser tool functionality, supporting both Simple mode and Plan-Act enhanced mode
 - **Key Features**: 
   - Simple chat interface query
@@ -18,7 +18,7 @@ This project contains a collection of practical use cases that demonstrate the c
 - **Use Cases**: Financial information query, stock price monitoring
 
 #### 2. IP Query
-- **File Location**: `chn/ip-query.md` | `eng/ip-query.md`
+- **File Location**: [chn/ip-query.md](chn/ip-query.md) | [eng/ip-query.md](eng/ip-query.md)
 - **Description**: Demonstrates MCP service integration methods to extend system functionality through external services
 - **Key Features**:
   - MCP service configuration and management
@@ -29,7 +29,7 @@ This project contains a collection of practical use cases that demonstrate the c
 ### 🔧 Advanced Feature Cases
 
 #### 3. Form Input Demo
-- **File Location**: `chn/form-input-demo.md` | `eng/form-input-demo.md`
+- **File Location**: [chn/form-input-demo.md](chn/form-input-demo.md) | [eng/form-input-demo.md](eng/form-input-demo.md)
 - **Description**: Demonstrates user interaction waiting mechanisms and login state persistence functionality
 - **Key Features**:
   - Form-input tool usage
@@ -38,7 +38,7 @@ This project contains a collection of practical use cases that demonstrate the c
 - **Use Cases**: Website operations requiring user login, interactive workflows
 
 #### 4. Query Plan
-- **File Location**: `chn/query-plan.md` | `eng/query-plan.md`
+- **File Location**: [chn/query-plan.md](chn/query-plan.md) | [eng/query-plan.md](eng/query-plan.md)
 - **Description**: Demonstrates DeepResearch-type application implementation, embodying the "functions as first-class citizens" design philosophy
 - **Key Features**:
   - Function composition and reuse
@@ -48,7 +48,7 @@ This project contains a collection of practical use cases that demonstrate the c
 - **Use Cases**: Deep research, academic research, information gathering
 
 #### 5. AI Novel
-- **File Location**: `chn/ai-novel.md` | `eng/ai-novel.md`
+- **File Location**: [chn/ai-novel.md](chn/ai-novel.md) | [eng/ai-novel.md](eng/ai-novel.md)
 - **Description**: AI novel generation plan (to be completed)
 - **Use Cases**: Content creation, creative writing
 
