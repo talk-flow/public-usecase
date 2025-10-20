@@ -107,12 +107,14 @@ public-usecase/
 │   ├── ip-query.md            # IP Query
 │   ├── form-input-demo.md     # Form Input Demo
 │   ├── query-plan.md          # Query Plan
+│   ├── image-pdf-recognition.md # Image and PDF Recognition
 │   └── ai-novel.md           # AI Novel
 └── eng/                       # English version use case docs
     ├── stock-price-query.md   # Stock Price Query
     ├── ip-query.md           # IP Query
     ├── form-input-demo.md    # Form Input Demo
     ├── query-plan.md         # Query Plan
+    ├── image-pdf-recognition.md # Image and PDF Recognition
     └── ai-novel.md          # AI Novel
 ```
 
@@ -130,4 +132,4 @@ This project uses an open source license. Please see the LICENSE file for specif
 
 ## Discussion
 
-Click this link to join the DingTalk group for discussion: [https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11](https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11)
+Click this link to join the DingTalk group for discussion: [dingtalk group](https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11)

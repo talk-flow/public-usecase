@@ -107,12 +107,14 @@ public-usecase/
 │   ├── ip-query.md            # IP查询
 │   ├── form-input-demo.md     # 表单输入演示
 │   ├── query-plan.md          # 查询计划
+│   ├── image-pdf-recognition.md # 图片和PDF识别
 │   └── ai-novel.md           # AI小说
 └── eng/                       # 英文版用例文档
     ├── stock-price-query.md   # Stock Price Query
     ├── ip-query.md           # IP Query
     ├── form-input-demo.md    # Form Input Demo
     ├── query-plan.md         # Query Plan
+    ├── image-pdf-recognition.md # Image and PDF Recognition
     └── ai-novel.md          # AI Novel
 ```
 
@@ -130,4 +132,4 @@ public-usecase/
 
 ## 交流讨论
 
-点击这个链接加入钉钉群讨论：[https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11](https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11)
+点击这个链接加入钉钉群讨论：[ding群链接](https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11)
