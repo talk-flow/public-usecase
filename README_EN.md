@@ -39,13 +39,15 @@ This project contains a collection of practical use cases that demonstrate the c
 
 #### 4. Query Plan
 - **File Location**: [chn/query-plan.md](chn/query-plan.md) | [eng/query-plan.md](eng/query-plan.md)
-- **Description**: Demonstrates DeepResearch-type application implementation, embodying the "functions as first-class citizens" design philosophy
+- **Description**: Demonstrates DeepResearch-type application implementation, embodying the "functions as first-class citizens" design philosophy and function-agent capabilities. Achieves intelligent deep research search functionality by decomposing complex tasks into reusable tool functions
 - **Key Features**:
-  - Function composition and reuse
-  - Complex task decomposition
-  - Answer generation based on real data
-  - Clear citation and evidence presentation
-- **Use Cases**: Deep research, academic research, information gathering
+  - Function-agent capabilities: Intelligent function composition and automatic task decomposition
+  - Function composition and reuse: Support for decomposing complex tasks into reusable tool functions
+  - Complex task decomposition: Automatic identification and splitting of research tasks
+  - Answer generation based on real data: All answers are based on actual content from accessed pages
+  - Clear citation and evidence presentation: Provides complete citation chains and evidence support
+  - Intelligent research strategy: Automatic selection of optimal research paths and resources
+- **Use Cases**: Deep research, academic research, information gathering, intelligent analysis
 
 #### 5. AI Novel
 - **File Location**: [chn/ai-novel.md](chn/ai-novel.md) | [eng/ai-novel.md](eng/ai-novel.md)
