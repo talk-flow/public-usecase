@@ -1,5 +1,9 @@
 # AI Novel
 
+## Important Notes
+
+**Version Requirement**: This use case requires system version 4.0.8 or higher to run properly. Please ensure your system version meets this requirement.
+
 ## Introduction
 This example demonstrates how to use the system to complete long-form content generation. Long-form content generation is generally limited by the system's context word count. Therefore, we need to leverage the Agent's divide-and-conquer capabilities to complete it in segments. This example demonstrates how to complete coherent long-form content by decomposing complex long-form creation tasks into manageable chapters, achieving intelligent content generation.
 
