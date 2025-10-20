@@ -106,6 +106,7 @@ This example uses enhanced plan-act to implement image and PDF recognition funct
   }
   ```
 - **Note**: `"upload-1760933409277_77_50"` is an example uploadKey value returned from the previous step. In actual calls, replace it with the real uploadKey value returned from Step 10
+- **Parameter Note**: The `"rawParam": "test"` in `replacementParams` is only for demonstration purposes. Passing this value has no actual meaning. If the system requires parameters to be passed, you can use this method to pass them
 - Expected return result:
   ```json
   {
