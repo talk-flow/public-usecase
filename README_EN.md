@@ -63,8 +63,14 @@ This project contains a collection of practical use cases that demonstrate the c
 
 #### 6. AI Novel
 - **File Location**: [chn/ai-novel.md](chn/ai-novel.md) | [eng/ai-novel.md](eng/ai-novel.md)
-- **Description**: AI novel generation plan (to be completed)
-- **Use Cases**: Content creation, creative writing
+- **Description**: Demonstrates integrated output of long-form content and function-agent implementation, completing long-form content creation through divide-and-conquer strategy, supporting batch production of long articles
+- **Key Features**:
+  - Integrated long-form content output: Breaking through context limitations to achieve coherent long-form content generation
+  - Function-agent implementation: Intelligent task decomposition and tool function composition, embodying "functions as first-class citizens" philosophy
+  - Batch production of long articles: Supporting chapter-based writing workflow, reusable for long-form content creation on different topics
+  - Divide-and-conquer strategy: Decomposing complex creation tasks into manageable chapter units
+  - Content coherence assurance: Ensuring logical consistency and style uniformity between chapters
+- **Use Cases**: Content creation, creative writing, batch article production, long-form document generation
 
 ## Technical Architecture
 
