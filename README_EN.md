@@ -1,0 +1,113 @@
+# Public Use Cases Collection
+
+## Project Introduction
+
+This project contains a collection of practical use cases that demonstrate the core functionality of the system, covering various application scenarios from basic queries to advanced automated workflows. Each use case provides detailed documentation in both Chinese and English to help users quickly understand and master the system's usage methods.
+
+## Use Cases Overview
+
+### 📊 Basic Query Cases
+
+#### 1. Stock Price Query
+- **File Location**: `chn/stock-price-query.md` | `eng/stock-price-query.md`
+- **Description**: Demonstrates the system's default browser tool functionality, supporting both Simple mode and Plan-Act enhanced mode
+- **Key Features**: 
+  - Simple chat interface query
+  - Variable parameter query for different company stock prices
+  - Detailed execution process display
+- **Use Cases**: Financial information query, stock price monitoring
+
+#### 2. IP Query
+- **File Location**: `chn/ip-query.md` | `eng/ip-query.md`
+- **Description**: Demonstrates MCP service integration methods to extend system functionality through external services
+- **Key Features**:
+  - MCP service configuration and management
+  - SSE connection method
+  - External service invocation
+- **Use Cases**: Network information query, IP location services
+
+### 🔧 Advanced Feature Cases
+
+#### 3. Form Input Demo
+- **File Location**: `chn/form-input-demo.md` | `eng/form-input-demo.md`
+- **Description**: Demonstrates user interaction waiting mechanisms and login state persistence functionality
+- **Key Features**:
+  - Form-input tool usage
+  - Asynchronous user interaction handling
+  - Browser session state maintenance
+- **Use Cases**: Website operations requiring user login, interactive workflows
+
+#### 4. Query Plan
+- **File Location**: `chn/query-plan.md` | `eng/query-plan.md`
+- **Description**: Demonstrates DeepResearch-type application implementation, embodying the "functions as first-class citizens" design philosophy
+- **Key Features**:
+  - Function composition and reuse
+  - Complex task decomposition
+  - Answer generation based on real data
+  - Clear citation and evidence presentation
+- **Use Cases**: Deep research, academic research, information gathering
+
+#### 5. AI Novel
+- **File Location**: `chn/ai-novel.md` | `eng/ai-novel.md`
+- **Description**: AI novel generation plan (to be completed)
+- **Use Cases**: Content creation, creative writing
+
+## Technical Architecture
+
+### Core Components
+- **Plan-Act Mode**: The system's main working mode, supporting complex task planning and execution
+- **Tool Integration**: Built-in browser_use tools and external MCP service integration
+- **Function Composition**: Support for decomposing complex tasks into reusable tool functions
+- **State Management**: Support for browser session and login state persistence
+
+### Supported Features
+- ✅ Simple query mode
+- ✅ Enhanced plan execution
+- ✅ Variable parameter support
+- ✅ External service integration
+- ✅ User interaction waiting
+- ✅ Function publication and reuse
+- ✅ Deep research search
+
+## Quick Start
+
+1. **Select Use Case**: Choose the appropriate use case documentation based on your needs
+2. **Read Instructions**: Carefully read the Chinese and English documentation
+3. **Follow Steps**: Execute operations according to the steps in the documentation
+4. **View Results**: Observe the system execution process and results
+
+## File Structure
+
+```
+public-usecase/
+├── README.md                    # Project overview (Chinese)
+├── README_EN.md                # Project overview (English)
+├── chn/                        # Chinese version use case docs
+│   ├── stock-price-query.md    # Stock Price Query
+│   ├── ip-query.md            # IP Query
+│   ├── form-input-demo.md     # Form Input Demo
+│   ├── query-plan.md          # Query Plan
+│   └── ai-novel.md           # AI Novel
+└── eng/                       # English version use case docs
+    ├── stock-price-query.md   # Stock Price Query
+    ├── ip-query.md           # IP Query
+    ├── form-input-demo.md    # Form Input Demo
+    ├── query-plan.md         # Query Plan
+    └── ai-novel.md          # AI Novel
+```
+
+## Contributing
+
+Contributions of new use cases and improvements to existing documentation are welcome. Please ensure:
+- Provide both Chinese and English versions
+- Use clear step numbering
+- Include expected results and technical points
+- Maintain consistent documentation formatting
+
+## License
+
+This project uses an open source license. Please see the LICENSE file for specific information.
+
+## Discussion
+
+Click this link to join the DingTalk group for discussion: [https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11](https://qr.dingtalk.com/action/joingroup?code=v1,k1,PBuFX00snERuKcnnG4YAPK52FOXwAkLYlulUUD9KiRo=&_dt_no_comment=1&origin=11)
