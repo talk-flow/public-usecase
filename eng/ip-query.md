@@ -3,10 +3,10 @@
 ## Introduction
 IP query is an example that demonstrates how MCP services can be integrated into the system. Through this case study, users can learn how to configure and use external MCP services to extend system functionality.
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-This example uses enhanced plan-act to implement IP query, demonstrating how to integrate MCP services into the system
+This example uses enhanced func-agent to implement IP query, demonstrating how to integrate MCP services into the system
 
 ### Specific Steps
 
@@ -35,9 +35,9 @@ This example uses enhanced plan-act to implement IP query, demonstrating how to 
 **Step 4** Return to main interface
 - Click "Return to Homepage" button
 
-**Step 5** Enter Plan-Act planning mode
-- Click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 5** Enter Func-Agent planning mode
+- Click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 6** Create new plan
 - Click "New Plan" button
@@ -76,4 +76,4 @@ This example uses enhanced plan-act to implement IP query, demonstrating how to 
 - MCP (Model Context Protocol) service integration
 - SSE (Server-Sent Events) connection method
 - External service configuration and management
-- Tool invocation in Plan-Act mode
+- Tool invocation in Func-Agent mode

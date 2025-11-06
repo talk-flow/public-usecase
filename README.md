@@ -10,7 +10,7 @@
 
 #### 1. 股票价格查询
 - **文件位置**: [chn/stock-price-query.md](chn/stock-price-query.md) | [eng/stock-price-query.md](eng/stock-price-query.md)
-- **功能描述**: 展示系统默认的浏览器工具功能，支持Simple模式和Plan-Act增强模式
+- **功能描述**: 展示系统默认的浏览器工具功能，支持Simple模式和Func-Agent增强模式
 - **核心特性**: 
   - 简单聊天框查询
   - 可变参数查询不同公司股价
@@ -37,7 +37,7 @@
   - 浏览器会话状态保持
 - **适用场景**: 需要用户登录的网站操作、交互式工作流
 
-#### 4. 查询计划
+#### 4. 函数化Agent
 - **文件位置**: [chn/query-plan.md](chn/query-plan.md) | [eng/query-plan.md](eng/query-plan.md)
 - **功能描述**: 展示DeepResearch类应用的实现，体现"函数是第一公民"的设计理念和function-agent能力。通过将复杂任务分解为可复用的工具函数，实现智能化的深度调研搜索功能
 - **核心特性**:
@@ -75,7 +75,7 @@
 ## 技术架构
 
 ### 核心组件
-- **Plan-Act模式**: 系统的主要工作模式，支持复杂任务规划和执行
+- **Func-Agent模式**: 系统的主要工作模式，支持复杂任务规划和执行
 - **工具集成**: 内置browser_use工具和外部MCP服务集成
 - **函数组合**: 支持将复杂任务分解为可复用的工具函数
 - **状态管理**: 支持浏览器会话和登录状态的持久化
@@ -106,14 +106,14 @@ public-usecase/
 │   ├── stock-price-query.md    # 股票价格查询
 │   ├── ip-query.md            # IP查询
 │   ├── form-input-demo.md     # 表单输入演示
-│   ├── query-plan.md          # 查询计划
+│   ├── query-plan.md          # 函数化Agent
 │   ├── image-pdf-recognition.md # 图片和PDF识别
 │   └── ai-novel.md           # AI小说
 └── eng/                       # 英文版用例文档
     ├── stock-price-query.md   # Stock Price Query
     ├── ip-query.md           # IP Query
     ├── form-input-demo.md    # Form Input Demo
-    ├── query-plan.md         # Query Plan
+    ├── query-plan.md         # Functional Agent
     ├── image-pdf-recognition.md # Image and PDF Recognition
     └── ai-novel.md          # AI Novel
 ```

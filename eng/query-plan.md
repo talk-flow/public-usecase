@@ -1,20 +1,20 @@
-# Query Plan
+# Functional Agent
 
 ## Introduction
 This example demonstrates how to use the system to complete a DeepResearch-type application, where answers are completely based on real information from all pages actually viewed, with clear citations. It also serves as a concrete demonstration of "functions as first-class citizens" by decomposing complex tasks into reusable tool functions.
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-This example uses enhanced plan-act to implement enhanced research search, demonstrating how to complete complex research tasks through function composition
+This example uses enhanced func-agent to implement enhanced research search, demonstrating how to complete complex research tasks through function composition
 
 ### Specific Steps
 
 #### Part 1: Publish a function to get detailed information from a single page
 
-**Step 1** Enter Plan-Act planning mode
-- On the homepage, click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 1** Enter Func-Agent planning mode
+- On the homepage, click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 2** Create new plan
 - Click "New Plan" button
@@ -55,7 +55,7 @@ This example uses enhanced plan-act to implement enhanced research search, demon
 #### Part 2: Publish a method to get research URLs from Baidu
 
 **Step 7** Create second plan
-- On the homepage, click the plan-act planning mode button again
+- On the homepage, click the func-agent planning mode button again
 - Click "New Plan" button
 
 **Step 8** Configure second plan template

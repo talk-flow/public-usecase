@@ -3,18 +3,18 @@
 ## Introduction
 Image and PDF recognition is a very common functional requirement for AI Agents. This system supports batch recognition of images and PDFs with structured output according to requirements, and also supports using image recognition through API calls. Through this use case, users can learn how to build document parsing capabilities and publish them as reusable services.
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-This example uses enhanced plan-act to implement image and PDF recognition functionality, demonstrating how to build structured document parsing capabilities and publish them as HTTP services
+This example uses enhanced func-agent to implement image and PDF recognition functionality, demonstrating how to build structured document parsing capabilities and publish them as HTTP services
 
 ### Specific Steps
 
 #### Part 1: Build Structured PDF/Image Parsing Capabilities
 
-**Step 1** Enter Plan-Act planning mode
-- On the homepage, click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 1** Enter Func-Agent planning mode
+- On the homepage, click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 2** Create new plan
 - Click "New Plan" button

@@ -10,7 +10,7 @@ This project contains a collection of practical use cases that demonstrate the c
 
 #### 1. Stock Price Query
 - **File Location**: [chn/stock-price-query.md](chn/stock-price-query.md) | [eng/stock-price-query.md](eng/stock-price-query.md)
-- **Description**: Demonstrates the system's default browser tool functionality, supporting both Simple mode and Plan-Act enhanced mode
+- **Description**: Demonstrates the system's default browser tool functionality, supporting both Simple mode and Func-Agent enhanced mode
 - **Key Features**: 
   - Simple chat interface query
   - Variable parameter query for different company stock prices
@@ -37,7 +37,7 @@ This project contains a collection of practical use cases that demonstrate the c
   - Browser session state maintenance
 - **Use Cases**: Website operations requiring user login, interactive workflows
 
-#### 4. Query Plan
+#### 4. Functional Agent
 - **File Location**: [chn/query-plan.md](chn/query-plan.md) | [eng/query-plan.md](eng/query-plan.md)
 - **Description**: Demonstrates DeepResearch-type application implementation, embodying the "functions as first-class citizens" design philosophy and function-agent capabilities. Achieves intelligent deep research search functionality by decomposing complex tasks into reusable tool functions
 - **Key Features**:
@@ -75,7 +75,7 @@ This project contains a collection of practical use cases that demonstrate the c
 ## Technical Architecture
 
 ### Core Components
-- **Plan-Act Mode**: The system's main working mode, supporting complex task planning and execution
+- **Func-Agent Mode**: The system's main working mode, supporting complex task planning and execution
 - **Tool Integration**: Built-in browser_use tools and external MCP service integration
 - **Function Composition**: Support for decomposing complex tasks into reusable tool functions
 - **State Management**: Support for browser session and login state persistence
@@ -106,14 +106,14 @@ public-usecase/
 │   ├── stock-price-query.md    # Stock Price Query
 │   ├── ip-query.md            # IP Query
 │   ├── form-input-demo.md     # Form Input Demo
-│   ├── query-plan.md          # Query Plan
+│   ├── query-plan.md          # Functional Agent
 │   ├── image-pdf-recognition.md # Image and PDF Recognition
 │   └── ai-novel.md           # AI Novel
 └── eng/                       # English version use case docs
     ├── stock-price-query.md   # Stock Price Query
     ├── ip-query.md           # IP Query
     ├── form-input-demo.md    # Form Input Demo
-    ├── query-plan.md         # Query Plan
+    ├── query-plan.md         # Functional Agent
     ├── image-pdf-recognition.md # Image and PDF Recognition
     └── ai-novel.md          # AI Novel
 ```

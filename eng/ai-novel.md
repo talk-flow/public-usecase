@@ -7,18 +7,18 @@
 ## Introduction
 This example demonstrates how to use the system to complete long-form content generation. Long-form content generation is generally limited by the system's context word count. Therefore, we need to leverage the Agent's divide-and-conquer capabilities to complete it in segments. This example demonstrates how to complete coherent long-form content by decomposing complex long-form creation tasks into manageable chapters, achieving intelligent content generation.
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-This example uses enhanced plan-act to implement AI novel generation, demonstrating how to complete long-form content creation through divide-and-conquer approach
+This example uses enhanced func-agent to implement AI novel generation, demonstrating how to complete long-form content creation through divide-and-conquer approach
 
 ### Specific Steps
 
 #### Part 1: Publish a tool to generate individual chapters
 
-**Step 1** Enter Plan-Act planning mode
-- On the homepage, click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 1** Enter Func-Agent planning mode
+- On the homepage, click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 2** Create new plan
 - Click "New Plan" button
@@ -66,7 +66,7 @@ This example uses enhanced plan-act to implement AI novel generation, demonstrat
 #### Part 2: Build AI Earth Domination Article Generation Template
 
 **Step 7** Create second plan
-- On the homepage, click the plan-act planning mode button again
+- On the homepage, click the func-agent planning mode button again
 - Click "New Plan" button
 
 **Step 8** Configure second plan template

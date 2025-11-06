@@ -13,16 +13,16 @@ Use the simplest chat interface to implement stock query
 - Enter in chat box: `Use Baidu to query the latest stock price of Alibaba`
 - Wait for system feedback
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-Use enhanced plan-act to implement stock query, with variable parameter support to query different types of stock information, demonstrating the system's variable parameter method (this is also the system's main recommended mode)
+Use enhanced func-agent to implement stock query, with variable parameter support to query different types of stock information, demonstrating the system's variable parameter method (this is also the system's main recommended mode)
 
 ### Specific Steps
 
-**Step 1** Enter Plan-Act planning mode
-- Click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 1** Enter Func-Agent planning mode
+- Click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 2** Create new plan
 - Click the "New Plan" button
@@ -61,5 +61,5 @@ Use enhanced plan-act to implement stock query, with variable parameter support 
 
 ## Expected Results
 - Simple mode: Display stock price information directly in the chat box
-- Plan-Act mode: Flexibly query stock prices of different companies through variable parameters, and view the complete execution process in execution details
+- Func-Agent mode: Flexibly query stock prices of different companies through variable parameters, and view the complete execution process in execution details
 

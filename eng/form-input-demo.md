@@ -3,16 +3,16 @@
 ## Introduction
 Form-input is a process that allows the system to wait for user input information, which is a very common scenario. This example explains how to implement: first visit and log in to Zhihu, then let the system wait for the user to log in on Zhihu. After the user completes the login on Zhihu, click confirm in the system to continue with subsequent operations. Since the system can maintain the login state, there is no need to log in again next time.
 
-## Plan-Act Enhanced Mode
+## Func-Agent Enhanced Mode
 
 ### Description
-This example uses enhanced plan-act to implement form input demo, demonstrating how to let the system wait for user interaction and maintain login state
+This example uses enhanced func-agent to implement form input demo, demonstrating how to let the system wait for user interaction and maintain login state
 
 ### Specific Steps
 
-**Step 1** Enter Plan-Act planning mode
-- On the homepage, click the plan-act planning mode button in the bottom right corner of the system
-- A new box "Plan-act plan template" will appear on the left
+**Step 1** Enter Func-Agent planning mode
+- On the homepage, click the func-agent planning mode button in the bottom right corner of the system
+- A new box "Func-agent plan template" will appear on the left
 
 **Step 2** Create new plan
 - Click "New Plan" button
