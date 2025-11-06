@@ -26,7 +26,7 @@ This example uses enhanced func-agent to implement enhanced research search, dem
   - **Task requirements**:
     ```
     First open <<Website URL>>
-    Get its getText content and markdown content.
+    Get its getText content.
     Then, from the content, get content related to user question: <<User Question>> and return, including all obtained facts and data.
     You only need to access the current page, no need to expand to access sub-pages.
     ```
@@ -66,7 +66,7 @@ This example uses enhanced func-agent to implement enhanced research search, dem
     ```
     First open Baidu search engine
     Organize all links related to user question: <<User Question>>
-    Get the first 5 related links from the first page of search results through getMarkdown and getText methods respectively.
+    Get the first 5 related links from the first page of search results through getText method.
 
     Then use the "Get current page information and answer questions" tool to access each link to get answers.
     ```
