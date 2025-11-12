@@ -44,7 +44,7 @@ This example uses enhanced func-agent to implement AI novel generation, demonstr
 
 **Step 4** Select tools
 - Click "Add/Remove Tools" button
-- Select `text_file_operator` tool
+- Select `global_file_operator` tool
 
 **Step 5** Save plan
 - Click "save" button
@@ -87,7 +87,7 @@ This example uses enhanced func-agent to implement AI novel generation, demonstr
 **Step 9** Select tools
 - Click "Add/Remove Tools" button
 - Select the following tools:
-  - `text_file_operator` tool
+  - `global_file_operator` tool
   - `Tool for writing individual chapters` (just created)
 
 **Step 10** Save and execute plan
